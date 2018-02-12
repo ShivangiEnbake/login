@@ -1,0 +1,22 @@
+ body{
+        background-color: #6362b8;
+       }
+h1{
+  font-family: 'Montserrat' sans-serif;
+  color: white;
+  font-size: 30px;
+  margin-top: 40px;
+  
+}
+form{
+  width:160px;
+  margin: auto;
+}
+.container{
+  width:200px;
+}
+
+#button{
+        background-color:#00ffbf;
+      }
+      

@@ -1,0 +1,29 @@
+  
+     body{
+           background-color: #6362b8
+          }
+
+     .container{
+     width: 400px;
+     height: 70px;
+   }
+      h1{
+  font-family: 'Montserrat' sans-serif;
+  color: white;
+  font-size: 30px;
+  margin-top: 40px;
+  
+}
+form{
+  width: 300px;
+  margin: auto;
+}
+       
+    #button{
+        background-color:#00ffbf;
+      }
+      
+      text-center{
+        color: grey;
+
+      }
